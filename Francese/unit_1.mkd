@@ -1,4 +1,6 @@
-#Brève Chronologie du XIX Siècle
+#Chateaubriand Mémorable
+
+##Brève Chronologie du XIX Siècle
 
 - 1799-1814: Consulat et empire de Napoléon I
 - 1814-1830: Restauration de la monarchie
@@ -11,13 +13,24 @@
 - 1848-1851: Seconde République avec Luis-Napoléon comme président 
 - ~1850: Révolution Industrielle
 - 1852-1870: Empire de Luis-Napoléon III
-- 1870: Échec militaire de Luis-Napoléon en Russie, l'Empire s'effondre
+- 1870: Échec militaire de Luis-Napoléon en Roussie, l'empire s'effondre
 - 1840-1870: Troisième République
 - 1871,mars-mai: Commune de Paris, le gouvernement d'Adolphe Thiers réprime
   cette insurrection.
 
-##Mots Clés
+###Mots Clés
 
 Lyrisme, Mal du Siècle, Naturalisme, le Parnasse, Positivisme, Réalisme,
 Symbolisme, Romantisme.
 
+##Naturalisme
+
+Le naturalisme est un mouvement littéraire qui né à la fin du XIX siècle.
+Son principal représentant est Émile Zola.
+Les Naturalistes essaye d'appliquer à la littérature une vision déterministe.
+Dans leurs ouvres les états d'âme et les actions des personnages sont causé exclusivement part
+trois facteurs:
+
+* L'hérédité génétique
+* Le milieu social
+* L'état physiologique du corps
