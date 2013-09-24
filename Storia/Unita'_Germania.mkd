@@ -5,26 +5,19 @@ che, come aveva fatto il Regno di Sardegna guidato da Cavour per l'unità
 d'Italia, si pone a guida dell'unità della Germania la Prussia, guidata da **Otto
 Von Bismark**. 
 
-Otto von Bismark é un appartente alla classe sociale dei Junker, grandi
+##Otto Von Bismark
+
+Otto von Bismark é un appartente alla classe sociale dei **Junker**, grandi
 latifondisti tedeschi fedeli alla monarchia e con molti incarichi amministrativi
 e militari. Egli é un conservatore, un uomo duro che vuole ottenere l'unità
 attravero **'ferro e sangue'**.
-
-La Prussia é militarmente forte e culturalmente unita grazie alla **leva
-obbligatioria** di due anni per tutti i cittadini maggiorenni maschi, cosa unica
-al tempo in Europa. La leva universale causa, oltre ad un esercito sempre pronto
-ed addestrato e numeroso, un'unità linguistica (per fare i militari insieme
-bisogna parlare la stessa lingua) e un **forte spirito nazionalistico e
-civico.**
-
-Bismark realizza l'importanza della leva obbligatoria, e la fa estendere ai
-territori neoconquistati e ne rende l'applicazione più rigorosa, difendendola
-dai tagli proposti dal parlamento.
 
 Nel caso della Germania il cancelliere (Otto Von Bismark) **doveva solamente
 rispondere al Sovrano**, scavalcando il parlamento. Benché anche in Italia lo
 statuto Albertino dava questo potere al primo ministro, Cavour fu sempre molto
 attento a sottoporre tutte le questioni di governo al parlamento.
+
+##La Confederazione Germanica, potenza europea
 
 La confederazione germanica aveva giá negli ultimi vent'anni investito molto
 nelle infrastutture (ferrovie, ponti, fiumi navigabili, strade, et cetera), con
@@ -36,6 +29,20 @@ carbone, l'acqua e il ferro.
 Essa aveva infine un'istruzione pubblica avanzata, l'istruzione elementare era
 quasi universale e c'era una grande **tradizione culturale comune**, anche se non
 era un unico stato.
+
+##La Prussia a capo della Confederazione Germanica
+
+La Prussia specificamente é poi militarmente forte e culturalmente unita grazie
+alla **leva obbligatioria** di due anni per tutti i cittadini maggiorenni
+maschi, cosa unica al tempo in Europa. La leva universale causa, oltre ad un
+esercito sempre pronto ed addestrato e numeroso, un'unità linguistica (per fare
+i militari insieme bisogna parlare la stessa lingua) e un **forte spirito
+nazionalistico e civico**. Cio' la rende il candidato ideale alla posizione di
+stato guida del processo di unificazione tedesco.
+
+Bismark realizza l'importanza della leva obbligatoria, e la fa estendere ai
+territori neoconquistati e ne rende l'applicazione più rigorosa, difendendola
+dai tagli proposti dal parlamento.
 
 Come guida della federazione germanica si era posta l'Austria, nonostante non ne
 facesse parte. Bismark argomenta che l'Austria non ha nessun interesse a unire
@@ -79,10 +86,11 @@ intervento popolare, come invece era in parte successo in Italia.
 **L'unificazione della Germania e' voluta e guidata solo dalla classe
 dirigente**. Il popolo era sostanzialmente indifferente. 
 
+###La Diplomazia di Bismark (Probabilmente non lo chiede)
+
 Una guerra contro la Francia era pero' molto rischiosa diplomaticamente, dunque
-Bismark mette in atto un'abile opera di Real Politik (questo probabilmente non
-lo chiede):
-La Spagna, molto arretrata, Isabella di Borbone viene scacciata da una congiura
+Bismark mette in atto un'abile opera di Real Politik:
+In Spagna, molto arretrata, Isabella di Borbone viene scacciata da una congiura
 militare, la quale, con lo scopo di modernizzare la Spagna, offre la corona a un
 principe tedesco. Questo mette in allarme la Francia, che sarebbe stata
 accerchiata dalla Germania, e in maniera minore tutta l'Europa. Allora, contro
@@ -98,6 +106,8 @@ che appena l'occasione di ripresentera' lo manderanno sicuramente. Napoleone III
 si sente preso in giro, umiliato, e dichiara guerra alla Prussia. Questo era
 l'obbiettivo di Bismark, che ora ha un valido pretesto per conquistare Lorena e
 Alsazia. 
+
+###Sconfitta della Francia
 
 La guerra termina rapidamente con una clamorosa sconfitta Francese, sotto lo
 stupore dell'Europa, che sottovalutava l'addestramento e la tecnologia
@@ -124,10 +134,13 @@ definisce l'impero come una federazione di 25 stati. La gerarchia di potere e'
 la seguente:
 
 - Kaiser, e' il capo del potere esecutivo e capo assoluto delle forze armate
+
 - Cancelliere, deve solo rispondere al Kaiser, ha il potere esecutivo e
   legislativo
+
 - Parlamento Imperiale, viene lasciato legiferare per le leggi di importanza
   minore, eletto a suffragio universale maschile, potere legislativo
+
 - Consiglio Federale, Bunderstag, formato dai rappresentanti dei 25 stati eletti
   dai parlamenti regionali, stesso ruolo del parlamento Imperiale
 
