@@ -49,6 +49,24 @@ Beccaria, Parini, Foscolo, Verra.
 
 ##Il Romanticismo in diversi campi:
 
+:Concetti base del romanticismo
+
++-------------+-------------+
+| Campi       | Temi        | 
++=============+=============+
+| estetico    | originalita'|
+|             |             |
++-------------+-------------+
+| psicologico | sentimento  |
+|             |             |
++-------------+-------------+
+| linguistico | dialetti    |
+|             |             |
++-------------+-------------+
+| sociale     | popolo      |
+|             |             |
++-------------+-------------+
+
 ###filosofico
 
 promuove creativita' di spirito, idealismo e spiritualismo assoluto.
@@ -69,6 +87,55 @@ Invece il romanticismo recupera tutto perche' considera ogni momento storico imp
 per comprendere il presente.
 Sostengono che il medioevo non e' comunque tutto da buttare 
 perche' durante esso si e' formato lo spirito cristiano e le prime identita' nazionali. 
-	
+C'e' poi anche una parte una parte folcklorica del romanticismo che nel Medioevo trova un grande repertorio.
 
+##politico
 
+A reazione del **cosmopolitismo** illuminista prende piede la consapevolezza della propria identita' nazionale.
+Anche se il cosmopolitismo ci sembra piu' moderno,
+bisogna ammettere che con esso si andavano a perdere degli elementi che indicavano l'essere popolo.
+Soprattutto il romanticismo italiano (Manzoni) dara' molta importanza a questo, anche a seguito del coevo risorgimento.
+
+##artistico e letterario
+
+Si introduce il concetto di arte come originalita' e creativita' e liberta' espressiva,
+al posto della concezione illuministica dell'arte come imitazione.
+vengono modificati e aggiunti modelli nel repertorio poetico, 
+sopratutto dal patrimonio folkcloristico di fiabe e leggende,
+specie nel romanticisimo fantastico.
+
+Dal punto di vista linguistico c'e' in Italia una rivalutazione del dialetto.
+In quello milanese poeta di spicco e' Carlo Porta, in quello romano Gioacchino Belli.
+
+#Romanticismo in Germania
+
+il romanticismo tedesco si articola in 3 gruppi:
+
+1. Il circolo di Jena, guidato dai fratelli Schleger, pubblica l'Atheneum. E' influenzato dall'idealismo di Fichte e
+   Schelling. testi principali: corso di letteratura drammatica, A. Schlegel; Attivita', Madame de Staël.
+
+2. gruppo di Heidelberg, fortemente nazionalistico, interpreta in chiave nazionalista il "discorso alla popolazione
+   tedesca di Fichte. Si lega a leggende e fiabe (ne facevano parte i fratelli Grim)
+
+3. gruppo di Berlino (1810). In esso vi e' Hofmann, il cui uso delle allucinazioni e dei deliri nei suoi racconti
+   infuenzera' Poe, Baudelaire e Dostoevsky.
+
+#Romanticismo in Italia
+
+Il romanticismo italiano da' maggiore evidenza alle seguenti istanze romantiche: unita' nazionale, liberta' dagli
+oppressori stranieri, il sentimento cristiano.
+
+La letteratura romantica italiana tende ad educare il lettore (Manzoni, Leopardi, e tutti i romantici del
+'Conciliatore'). Essi credono che la letteratura non dev'essere di evasione, ma un'occasione di educazione.
+
+Madame de Staël sostiene, nella suo articolo "Sulla maniera e l'utilità delle traduzioni",
+che i letterati italiani si trovano in arretratezza culturale, perche' preferiscono mantenere un repertorio stantio di
+mitologia classica, riproposta senza significative rinnovazioni e originalita' da mediocri scrittori per nascondere la loro
+mancanza di creativita' con la tradizione, continuando a perseguire l'idea illuminista dell'arte come imitazione.
+Ella dunque incita i letterati italiani a tradurre e ispirarsi alla letteratura straniera, piu' avanti rispetto a loro.
+
+Molti leggono nell'articolo un insulto alla tradizione classica e mitologica, ma alcuni autori (Pietro Borsieri,
+Brechet, e altri) rispondo positivamente a questo appello.
+
+Brechet specialmente scrive la "lettera semiseria", opera fondamentale, specie nel panorama italiano che ha pochi teorici
+romantici di spicco, perche' individua la borghesia come classe a cui i romantici devono rivolgersi.
