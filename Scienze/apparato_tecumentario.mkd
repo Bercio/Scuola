@@ -1,6 +1,6 @@
 #Apparato Tecumentario
 
-![schema dell'epidermide](./Images/apparato_tecumentario.jpg)
+![schema dell'epidermide](/home/bercio/Scuola/Scienze/Images/apparato_tecumentario.jpg)
 
 Caratteristiche:
 

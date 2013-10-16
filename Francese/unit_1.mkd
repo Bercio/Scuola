@@ -1,4 +1,4 @@
-#Chateaubriand Mémorable
+#Unité 1
 
 ##Brève Chronologie du XIX Siècle
 
@@ -14,7 +14,7 @@
 - ~1850: Révolution Industrielle
 - 1852-1870: Empire de Luis-Napoléon III
 - 1870: Échec militaire de Luis-Napoléon en Roussie, l'empire s'effondre
-- 1840-1870: Troisième République
+- 1870-1940: Troisième République
 - 1871,mars-mai: Commune de Paris, le gouvernement d'Adolphe Thiers réprime
   cette insurrection.
 
@@ -23,7 +23,9 @@
 Lyrisme, Mal du Siècle, Naturalisme, le Parnasse, Positivisme, Réalisme,
 Symbolisme, Romantisme.
 
-##Naturalisme
+##Genres littéraires
+
+###Naturalisme
 
 Le naturalisme est un mouvement littéraire qui né à la fin du XIX siècle.  Son
 principal représentant est Émile Zola.  Les Naturalistes essaye d'appliquer à la
@@ -37,21 +39,21 @@ actions des personnages sont causé exclusivement part trois facteurs:
 Zola laisse donc agir le personnages selon de lois mécanique,
 comme une simulation.
 
-##Parnassisme
+###Parnassisme
 
 Les Parnassiens se assemble autour du Conte de Lisle, au milieu du siècle.
 Ils considèrent le Romantisme comme excessif. 
 Donc ils réagissent avec une poésie descriptive, de ligne pur, à la plastique
 impeccable et dont la seul raison d'être est la beauté, surtout de la forme.
 
-##Positivisme
+###Positivisme
 
-Le positivisme est une courant de pensée de la seconde moyenne du siècle,
+Le positivisme est une courant de pensée de la seconde moitié du siècle,
 dominé par Auguste Comte.
 Les positivistes pensent que la seul connaissance possible est fondé sur
 l'expérience et sur l'étude des faits.
 
-##Réalisme
+###Réalisme
 
 Important pendant le seconde empire, 
 dominé par Flaubert et Maupassant.
@@ -62,7 +64,7 @@ Le réalisme se caractérisé par la recherche des histoires vraie ou
 vraisemblable, par un approche impersonnel et objectif à ces histoires et à
 leur personnages
 
-##Romantisme
+###Romantisme
 
 Le Romantisme, née au fin du XVIII siècle, intéresse toute l'Europe.
 En France il atteinte son apogée dans les années 1810-1835,
@@ -83,13 +85,13 @@ Au fin du siècle les romantistes s'épuisent et il y a le triomphe de l'esprit
 bourgeois; la réalité, la concrétude, l'argent. Les nouvelles générations
 littéraire sont positiviste.
 
-##Symbolisme
+###Symbolisme
 
 il se déroule pendant la seconde moitié du siècle,
 c'est une réactionne contre les descriptions parnassiens.
 Les auteurs principales sont Baudelaire, Verlaine, Rimbaud et Mallarmé.
 Ils ont un nouvel idéal de poésie qui célèbre le rêve, le mystère et le sens caché de les choses.
 Nominer un objet l'appauvrit, 
-donc il faut le deviner,            Control-C  Abort This Operation au moyenne de symboles 
+donc il faut le deviner au moyenne de symboles 
 qui établissent des correspondances secret entre le visible et l'invisible.
 Un paysage donc peut évoquer un état d'âme.

@@ -2,7 +2,7 @@
 
 ##Sviluppo embrionale
 
-![Schema dello sviluppo embrionale](./Images/blastocyct.svg)
+![schema](Images/blastocyst.png)
 
 Il disco embrionale darà poi origine all'embrione, mentre il trofoblasto
 diventerà la placenta, le acque et cetera.
@@ -16,9 +16,9 @@ fecondazione, il trofoblasto entra in contatto con la mucosa e produce HCG,
 ormone che causa la produzione di estrogeni, mantenendo il corpo luteo attivo.
 Ad un certo punto si formano 3 foglietti embrionali:
 
-- ectoderma ⇨ epidermide
-- mesoderma ⇨ muscolatura, apparato escretore
-- endoderma ⇨ apparato digerente
+- ectoderma -> epidermide
+- mesoderma -> muscolatura, apparato escretore
+- endoderma -> apparato digerente
 
 ##Il Parto
 
