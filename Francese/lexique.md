@@ -16,4 +16,43 @@ espoirs ont été déçus.*
 Qui aime la chère fine et délicate, et qui s’y connaît. *Il n’est pas gourmand,
 mais il est friand. Il est très friand de sucreries.*
 
+##Connecteurs
 
+###D'Ordre
+
+en premier lieu/en second lieu
+
+d'un côte/d'autre côte
+
+d'une part/d'autre part (plus formal)
+
+ensuite
+
+premièrement
+
+en définitive
+
+en fin de compte
+
+pour concluire
+
+###D'Opposition
+
+en revanche
+
+au contraire
+
+cependant = pourtant [= tuttavia]
+
+néanmois
+
+malgré [+ N/CN]
+> malgré le bon petit dejuner, J'ai faime
+
+bien que
+
+tandis que
+
+alors que
+
+###De Cause
