@@ -23,7 +23,7 @@ realta' e' ridotta all'*io penso*, ma **solo** la realta' fenomenica.
 L'idealismo assoluto invece riduce **tutta** la realta' all'uomo; tutta la
 realta' viene da me e io sono creatore assoluto di senso. 
 
-##Fichte (1722-1814)
+##Fichte (1762-1814)
 
 manifesta l'esigneza di liberta' (l'io e' libero). Ispirazione di tipo storico
 dalla rivoluzione Francese
@@ -51,7 +51,7 @@ fonda sugli stessi 3 principi:
 
 - L'Io pone il non Io.
 
-- L'Io e il non Io si limitano a vicenda.
+- L'Io oppone nell'Io ad un io divisibile un non io divisibile
 
 ###L'Io pone se stesso.
 
@@ -70,12 +70,32 @@ E' in oltre, in linea col romanticismo, un Atto intuitivo e libero.
 tutto cio' che non e' Io (il mondo esterno, ma anche impulsi e emozioni, che non
 sono parte dell'Io Penso) e' Non Io, creato dall'Io e assolutamente conoscibile
 
-###L'Io e il non Io si limitano a vicenda.
+###L'Io oppone nell'Io ad un io divisibile un non io divisibile
 
-C'e' una continua tensione, dell'Io individuale **e** dell'Io assoluto,
-dell'umanita', a superare il Non Io, a comprenderlo e a superare il limite
-imposto da questo, fino ad arrivare all'Io assoluto(Sehnsucht)
+C'e' una continua tensione, dell'io divisibile (tesi) a superare il non io
+divisibile (antitesi), a comprenderlo e a superare il limite imposto da questo,
+fino ad arrivare all'Io assoluto(Sehnsucht, sete d'infinito).
 
-Il limite e' superato quando l'Io entra in relazione con il non io per
+Il limite e' superato quando l'io entra in relazione con il non io per
 dargli senso, e lo comprende. Quando comprendiamo facciamo una sintesi tra l'io
 e il non io. 
+
+###Etica
+
+Per Fichte la base dell'etica e' l'impegno, impegno a superare i limiti e, nella
+vita pratica, a fare il proprio dovere.  
+Con superare i propri limiti Fichte intende dire perfezionarsi, avvicinarsi il
+piu' possibile all'Io Assoluto e liberarsi dalle dipendenze il piu' possibile.  
+
+Il Dogmatismo, secondo Fichte, e' la filosofia che punta sull'oggetto sul suo
+condizionamento, e' filosofia passiva e affascina i caratteri passivi.   
+Fichte sostiene che il Kantsimo sia in parte dogmatico perche' secondo Kant
+l'atto del sentire e' assolutamente passivo, il soggetto 'subisce' l'oggetto.
+
+#Heghel
+
+La filosogia di Heghel e' il sistema per definizione: un sapere unitario, dove
+nulla e' escluso o diviso.  
+Il Kantismo non e' un sistema perche' e' diviso in molte parti (critca della
+...), Mentre l'idealismo di Fichte non e' un idealismo perche' non si compie,
+rimane irrisolta questa tensione verso l'io assoluto.

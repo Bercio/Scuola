@@ -55,4 +55,46 @@ tandis que
 
 alors que
 
+contrairement à
+
 ###De Cause
+
+car
+
+parce que
+
+puisque
+
+étant donné que
+
+vu que
+
+sous prétexte que
+
+grâce à
+
+en raison de 
+
+à cause de
+
+###Consequénce
+
+donc
+
+de sort que
+
+si bien que
+
+au point que
+
+tellement (...) que ...
+
+aussi
+
+ainsi
+
+voilà pourquoi
+
+par conséquent
+
+c'est pourquoi

@@ -64,7 +64,7 @@ la fede, l'immaginzazione (L'Infinito di Leopardi); mezzi piu' immediati e
 irrazionali, e dunque intuitivamente piu' vicini all'infinito.
 
 Questa sete d'infinito, **'Sehnsucht'** (anelito, desidero struggente in tedesco)
-e 'Streden' (sforzo continuo [verso l'infinito]), e' magnificamente espressa da
+e 'Streben' (sforzo continuo [verso l'infinito]), e' magnificamente espressa da
 delle opere di Schubert e Chopin chiamate incompiute e che si caratterizzano per
 appunto l'incompiutezza, armonie che non si chiudono mai. Richiama questo anche
 la figura tipicamente romantica del viandante, "viandante in un mare di nebbia",
