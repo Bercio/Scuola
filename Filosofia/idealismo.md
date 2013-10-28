@@ -39,7 +39,7 @@ contraddittorio affermare che esista qualcosa oltre la conoscenza del soggetto.
 chiederci come conosciamo la realta', ma come la mente formi le sue
 rappresentazioni.
 
-Scrive 'La dottrina della scienza' nel 1774. Va alla ricerca del fondamento
+Scrive 'La dottrina della scienza' nel 1794. Va alla ricerca del fondamento
 della scienza, intesa come conoscenza (metafisica e fisica, come Kant). 
 Considera la filosofia la scienza per eccellenza, perche' "scienza della
 scienza". 
@@ -91,6 +91,8 @@ Il Dogmatismo, secondo Fichte, e' la filosofia che punta sull'oggetto sul suo
 condizionamento, e' filosofia passiva e affascina i caratteri passivi.   
 Fichte sostiene che il Kantsimo sia in parte dogmatico perche' secondo Kant
 l'atto del sentire e' assolutamente passivo, il soggetto 'subisce' l'oggetto.
+
+###Storia
 
 #Heghel
 

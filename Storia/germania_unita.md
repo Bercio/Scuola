@@ -138,8 +138,8 @@ la seguente:
 - Cancelliere, deve solo rispondere al Kaiser, ha il potere esecutivo e
   legislativo
 
-- Parlamento Imperiale, viene lasciato legiferare per le leggi di importanza
-  minore, eletto a suffragio universale maschile, potere legislativo
+- Parlamento Imperiale, Reichsrat, viene lasciato legiferare per le leggi di
+  importanza minore, eletto a suffragio universale maschile, potere legislativo
 
 - Consiglio Federale, Bunderstag, formato dai rappresentanti dei 25 stati eletti
   dai parlamenti regionali, stesso ruolo del parlamento Imperiale

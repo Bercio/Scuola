@@ -16,6 +16,16 @@ espoirs ont été déçus.*
 Qui aime la chère fine et délicate, et qui s’y connaît. *Il n’est pas gourmand,
 mais il est friand. Il est très friand de sucreries.*
 
+###varie
+
+aisé = agitato
+
+Ce qui l'entoure = ció che lo circonda
+
+mûrir = maturare 
+
+le cercle familial
+
 ##Connecteurs
 
 ###D'Ordre
